@@ -4,7 +4,7 @@
 #include<string>
 
 using namespace std;
-
+//key is to add len and delimeter and str later while encode (enable skipping reading the string) 
 class Solution {
 public:
 
