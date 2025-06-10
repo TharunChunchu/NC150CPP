@@ -2,6 +2,7 @@
 #include<unordered_map>
 #include<vector>
 using namespace std;
+// for anagrams sorted string is same use a map to track the group it belongs to
 vector<vector<string>> groupAnagrams(vector<string> strs) {
     vector<vector<string>> res;
     unordered_map<string,vector<string>> ump;
