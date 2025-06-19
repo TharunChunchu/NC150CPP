@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
