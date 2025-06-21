@@ -34,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
