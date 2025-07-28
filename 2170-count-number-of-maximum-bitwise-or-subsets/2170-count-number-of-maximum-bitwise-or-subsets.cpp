@@ -7,7 +7,6 @@ public:
         if(n==0){
             return 0;
         }
-        cout<<c<<endl;
 
         return solve(nums,n-1,ma,c)+solve(nums,n-1,ma,c|nums[n-1]);
     }
