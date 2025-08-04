@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TharunChunchu/NC150CPP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TharunChunchu/NC150CPP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
