@@ -14,7 +14,6 @@ public:
             ms[s[j]]++;
             while(counter==0 && i<n){
                 flag=false;
-                cout<<i<<" "<<j<<endl;
                 if(j-i+1<res){
                     res=j-i+1;
                     si=i;
