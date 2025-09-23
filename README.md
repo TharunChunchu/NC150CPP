@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharunChunchu/NC150CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/TharunChunchu/NC150CPP/tree/master/0238-product-of-array-except-self) |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
 |  |
