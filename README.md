@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/TharunChunchu/NC150CPP/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/TharunChunchu/NC150CPP/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharunChunchu/NC150CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/TharunChunchu/NC150CPP/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
 | ------- |
