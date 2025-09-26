@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
+| [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -37,17 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/TharunChunchu/NC150CPP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TharunChunchu/NC150CPP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
+| [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
 |  |
@@ -104,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TharunChunchu/NC150CPP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
