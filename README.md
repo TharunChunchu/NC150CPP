@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/TharunChunchu/NC150CPP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharunChunchu/NC150CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TharunChunchu/NC150CPP/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharunChunchu/NC150CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TharunChunchu/NC150CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharunChunchu/NC150CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/TharunChunchu/NC150CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TharunChunchu/NC150CPP/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TharunChunchu/NC150CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TharunChunchu/NC150CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TharunChunchu/NC150CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharunChunchu/NC150CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
