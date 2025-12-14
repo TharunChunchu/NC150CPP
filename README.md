@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TharunChunchu/NC150CPP/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/TharunChunchu/NC150CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TharunChunchu/NC150CPP/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/TharunChunchu/NC150CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharunChunchu/NC150CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/TharunChunchu/NC150CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
