@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TharunChunchu/NC150CPP/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/TharunChunchu/NC150CPP/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/TharunChunchu/NC150CPP/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/TharunChunchu/NC150CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TharunChunchu/NC150CPP/tree/master/0238-product-of-array-except-self) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/TharunChunchu/NC150CPP/tree/master/0611-valid-triangle-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TharunChunchu/NC150CPP/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TharunChunchu/NC150CPP/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TharunChunchu/NC150CPP/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/TharunChunchu/NC150CPP/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TharunChunchu/NC150CPP/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -152,8 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/TharunChunchu/NC150CPP/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/TharunChunchu/NC150CPP/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TharunChunchu/NC150CPP/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
