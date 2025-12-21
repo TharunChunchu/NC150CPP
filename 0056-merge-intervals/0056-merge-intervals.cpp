@@ -13,9 +13,7 @@ public:
         vector<vector<int>> sol;
         int n=intervals.size();
         sol.push_back(intervals[0]);
-        for(auto i:intervals){
-            cout<<i[0]<<" "<<i[1]<<endl;
-        }
+ 
         int k=0;
         for(int i=1;i<n;i++){
             if(sol[k][1]>=intervals[i][0]){
