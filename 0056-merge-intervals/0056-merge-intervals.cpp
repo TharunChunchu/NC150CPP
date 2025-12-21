@@ -4,9 +4,7 @@ public:
 
 
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end(),[](vector<int> v1, vector<int> v2){
-        return v1[0]<v2[0];
-    });
+        sort(intervals.begin(),intervals.end());
         vector<vector<int>> sol;
         int n=intervals.size();
         sol.push_back(intervals[0]);
