@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/TharunChunchu/NC150CPP/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/TharunChunchu/NC150CPP/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/TharunChunchu/NC150CPP/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/TharunChunchu/NC150CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TharunChunchu/NC150CPP/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/TharunChunchu/NC150CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TharunChunchu/NC150CPP/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/TharunChunchu/NC150CPP/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TharunChunchu/NC150CPP/tree/master/0399-evaluate-division) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TharunChunchu/NC150CPP/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TharunChunchu/NC150CPP/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
